@@ -4,12 +4,17 @@
 
 监督台账模块介绍
 
-
 ***
+前端
+
+vue3.0 + typescript + lodop + electron
+***
+后端
+
 jdk8 + spring + mybatis-plus
 mysql
 redis
-
+***
 
 
 内容包含
@@ -45,7 +50,7 @@ redis
    - （问题：图表）
  
  - 报告规范化管理
-   - 啥玩意？？？
+   - 报表设计或者导入系统
 
  - 统计与分析
    - 实现对任一机组、工程、分项、焊工的合格率统计；
